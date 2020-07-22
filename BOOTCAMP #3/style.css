@@ -1,0 +1,45 @@
+#navbarNav{
+    margin-top: 5px;
+    background-color: orange;
+}
+
+.container{
+    margin-top: 20px;
+    left: 0;
+    
+}
+
+.jumbotron{
+    background-image: url('gambar7.jpg');
+    height: 400px;
+    text-align: center;
+}
+
+.card{
+    margin-top: 5px;
+    margin-bottom: 10px;
+    font-size: 14px;
+    border:2px solid orangered;
+    text-align: center;
+}
+
+.card h5{
+    line-height: 2px;
+}
+
+.card p{
+    text-align: left;
+}
+
+.list-group{
+    border:2px solid orangered;
+}
+
+#links{
+    margin-top: 10px;
+    border:2px solid orangered;
+}
+
+#button{
+    margin-top: 10px;
+}
